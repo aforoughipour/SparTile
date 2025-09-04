@@ -6,3 +6,7 @@ scikit-image.
 Please refer to the SparTileExample.ipynb for a miniml working example.
 
 Reference: https://www.biorxiv.org/content/10.1101/2025.04.18.649541v1
+
+The TNBC dataset used in the manuscript can be downloaded from: to be added.
+
+Images of the IMC dataset for visualization of data can be downloaded from: 
