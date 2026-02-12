@@ -3,10 +3,12 @@ numpy,
 pandas,
 scikit-image.
 
-Please refer to the SparTileExample.ipynb for a miniml working example.
+Please refer to the SparTileExample.ipynb for a minimal working example.
 
-Reference: https://www.biorxiv.org/content/10.1101/2025.04.18.649541v1
+Reference: https://www.nature.com/articles/s43856-026-01400-4
 
-The TNBC dataset used in the manuscript can be downloaded from: to be added.
+Citation: Foroughi pour, A., Wu, TC., Noorbakhsh, J. et al. Prediction of outcome from spatial Protein profiling of triple-negative breast cancers. Commun Med (2026). https://doi.org/10.1038/s43856-026-01400-4
+
+The raw IMC data of TNBCs used in the manuscript can be downloaded from: https://zenodo.org/records/17886494
 
 Images of the IMC dataset for visualization of data can be downloaded from: https://zenodo.org/records/17056591
